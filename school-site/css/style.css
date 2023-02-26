@@ -93,18 +93,18 @@ header, footer {
 }
 
 html {
-    font-family: Montserrat, sans-serif;
+    font-family: montserrat, sans-serif;
 }
 
 h1 {
-    font-family: Josefinslab, serif;
+    font-family: josefinslab, serif;
     font-size: 3.75rem;
     margin: 1.125rem;
     text-align: center;
     letter-spacing: 0.125rem;
 }
 h2 {
-    font-family: Josefinslab, serif;
+    font-family: josefinslab, serif;
     font-size: 1.5rem;
     letter-spacing: 0.125rem;
 }
